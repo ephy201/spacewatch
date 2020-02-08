@@ -1,0 +1,53 @@
+{
+    "name" : "SPACEWATCH",
+    "short_name" : "Spcwatch",
+    "start_url" : "/public/index.html",
+    "display" : "standalone",
+    "background_color" : "#1FA9FF",
+    "theme_color" :"#1FA9FF",
+    "orientation" : "portrait-primary",
+    "icons" : [
+        {
+            "src" : "/images/icons/spacewatch_icon_72x72.PNG",
+            "type" :"image/png",
+            "sizes" : "72x72"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_96x96.PNG",
+            "type" :"image/png",
+            "sizes" : "96x96"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_128x128.PNG",
+            "type" :"image/png",
+            "sizes" : "128x128"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_144x144.PNG",
+            "type" :"image/png",
+            "sizes" : "144x144"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_152x152.PNG",
+            "type" :"image/png",
+            "sizes" : "152x152"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_192x192.PNG",
+            "type" :"image/png",
+            "sizes" : "192x192"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_384x384.PNG",
+            "type" :"image/png",
+            "sizes" : "384x384"
+        },
+        {
+            "src" : "/images/icons/spacewatch_icon_512x512.PNG",
+            "type" :"image/png",
+            "sizes" : "512x512"
+        }
+       
+    ]
+} 
+

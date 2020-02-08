@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Sigmar+One|ZCOOL+QingKe+HuangYou&display=swap');
+
+/* 
+font-family: 'Dosis', sans-serif;
+font-family: 'Sigmar One', cursive;
+font-family: 'ZCOOL QingKe HuangYou', cursive;
+*/
+
+.brand-logo{
+    margin-left: 20px !important;
+    font-size: 1.4rem !important;
+}
+.tab a{
+    font-size: 1.3em;
+    text-transform: capitalize;
+}
+.banner, .btm{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.footer{
+    font-family: 'Dosis', sans-serif;
+}
+.nav-wrapper .flow-text{
+    margin-left: 1.8rem !important;
+    font-size: 1.3rem;
+}
+
+
+
+.views{
+    background-color: #ffffff;
+}
+.btn #logInBtn{
+   position: relative;
+   top: 55vh;
+   left: 25vw;
+   border-radius: 3px;
+
+}
+
+.sidenav li a.left-align{
+    padding: 0 px !important;
+}
+.btm{
+    position: absolute;
+    top: 80vh;
+}
+.btm a{
+    padding: 0px 10px 7px !important;
+    color: #000B1E;
+    font-family: 'Dosis', sans-serif;
+}
+
+.footer-copyright{
+    font-family: 'Dosis', sans-serif;
+    padding-top: 40px !important;
+}
+
+.row.caption h4, .row.caption h5{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 2.3rem !important;
+}
+.row.caption{
+    height: 75vh !important;
+}
+.lv-btn{
+    max-width: 150px !important;
+}
+
+.insta-txt{
+    font-family: 'Dosis', sans-serif;
+    font-size: 1rem;
+}
+
+.footer p{
+    margin-top: 30px !important;
+}
+
+/* more tab spacing */
+#more{
+    padding-top: 1.3vh;
+}
+/* instagram video */
+.instagram-media, #more.card{
+    margin:  0px !important;
+    padding: 0px !important;
+    border-radius: 0px !important;
+}
+/* card radius removal */
+.card .card-image img{
+    border-radius: 0px !important;
+}
+/* card padding removal */
+.crdImg{ padding: 0px !important;}
+/* text colors */
+p, a, h1,li, i .tabs .tab a{
+    color: #1FA9FF !important;
+}
+.tabs .indicator{
+    background-color: #1FA9FF !important;
+}
+.tabs .tab a:hover, .tabs .tab a.active{
+    background-color: rgba(31, 169, 255, 0.11)  !important;
+}
+
+.tabs, .tabs a, .tabs a:hover{
+    color: #1FA9FF !important;
+    transition: none !important;
+}
+.sidenav ul li{
+    padding: 0px !important;
+}
+.sidenav i{
+    margin: 0px !important;
+    color: #1FA9FF !important;
+}
+
+/* sidenav icons */
+.sidenav{
+    max-width: 220px !important;
+    padding-top: 12vh;
+}
+
+.sidenav ul li a{
+    display: inline;
+}
